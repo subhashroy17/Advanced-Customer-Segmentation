@@ -1,0 +1,7 @@
+https://archive.ics.uci.edu/dataset/352/online+retail
+  
+
+https://archive.ics.uci.edu/dataset/222/bank+marketing
+
+
+https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
